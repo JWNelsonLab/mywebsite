@@ -1,5 +1,5 @@
 name: "Mywebsite"
-title: "USC KRC Data Core"
+title: "USC KRC Bioinformaics Core"
 type: inverse
 left:
   - text: "About USC KRC"
@@ -14,6 +14,12 @@ left:
     menu:
        - text: "SCRUBS"
          href: ./scrubs.html
+  - text: "Datasets"
+    menu:
+       - text: "snRNAseq"
+         href: ./snRNAseq.html
+       - text: "Bulk"
+         href: ./bulk.html
   - text: "Contact"
     href: ./contact.html
 right:

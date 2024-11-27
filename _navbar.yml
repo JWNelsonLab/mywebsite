@@ -1,0 +1,21 @@
+name: "Mywebsite"
+title: "USC KRC Data Core"
+type: inverse
+left:
+  - text: "About USC KRC"
+    menu:
+      - text: "Learn more about the USC KRC"
+        href: ./aboutme.html
+  - text: "Kidney JC"
+    menu:
+       - text: "Kidney JC"
+         href: ./kidneyjc.html
+  - text: "SCRUBS"
+    menu:
+       - text: "SCRUBS"
+         href: ./scrubs.html
+  - text: "Contact"
+    href: ./contact.html
+right:
+  - icon: fa-github fa-lg
+    href: https://github.com/githubusername/mywebsite

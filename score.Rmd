@@ -20,7 +20,7 @@ if (!require("here")) {install.packages("here"); require("here")}
 
 # About
 
-Join us at the **Kidney Research Center** for our new Journal Club on Kidney Disease! This interactive forum brings together researchers, clinicians, and students for in-depth discussions on the latest advancements in kidney research. Each quarter, we will explore a new theme through a curated selection of high-impact articles, fostering a collaborative environment for knowledge exchange and critical analysis. Open to all interested in the forefront of kidney disease research and innovations. Don’t miss this opportunity to engage with colleagues and deepen your understanding of the complex science behind kidney health and disease.
+**Single-Cell Omics Research and Education** (SCORE) is dedicated to driving excellence in the field of single-cell omics. We focus on applying and developing advanced methodologies to explore gene expression, epigenetics, proteomics, and spatial biology at the single-cell resolution. Our community is committed to training the next generation of scientists through workshops, seminars, and collaborative projects. We strive to uncover new insights into cellular diversity and its implications for personalized medicine and therapeutic innovation.
 
 Organizers:
   Jonathan Nelson (jnelson4@usc.edu)
@@ -42,7 +42,57 @@ Click on this link to join **USC SCORE**.
 
 # Previous Topics
 
-## 
+## Installing R and R Studio with Seurat
 
-Link to materials:
+Link to materials. 
+
+## Downloading Files from GEO and other Seurat Functions
+
+Link to materials. 
+
+## Advanced Data Visualization
+
+Link to materials. 
+
+## Integrating Datasets with FindIntegrationAnchors()
+
+Link to materials. 
+
+## Working with Data Files and Dataframes
+
+Link to materials. 
+
+## Recreating Manuscript Figures
+
+Link to materials. 
+
+## Getting Fancy with ggplot2
+
+Link to materials. 
+
+## Pseudobulk and GSEA analysis
+
+Link to materials. 
+
+## Working with Complex Datasets
+
+Link to materials. 
+
+## 10X Genomics on Spatial Transcriptomics
+
+Link to materials. 
+
+## Cell Ranger and ShinyCell
+
+Link to materials. 
+
+## Isolating Nuclei
+
+Link to materials. 
+
+## Using ChatGPT
+
+Link to materials. 
+
+
 

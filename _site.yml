@@ -1,8 +1,9 @@
-name: "USC KRC Data Core"
+name: "USC KRC Bioinformatics"
 output_dir: 'docs'
 output:
   html_document:
     theme: united
+    css: mystyle.css
     highlight: zenburn
     toc: true
     toc_depth: 2

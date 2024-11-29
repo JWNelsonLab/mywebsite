@@ -1,0 +1,48 @@
+---
+title: "Single-Cell Omics Research and Education"
+output:
+  html_document: 
+    toc: yes
+    toc_depth: 3
+    toc_float: true
+layout: page
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r load new packages, echo=FALSE, warning=FALSE, error=FALSE, message=FALSE}
+
+if (!require("here")) {install.packages("here"); require("here")}
+```
+
+# About
+
+Join us at the **Kidney Research Center** for our new Journal Club on Kidney Disease! This interactive forum brings together researchers, clinicians, and students for in-depth discussions on the latest advancements in kidney research. Each quarter, we will explore a new theme through a curated selection of high-impact articles, fostering a collaborative environment for knowledge exchange and critical analysis. Open to all interested in the forefront of kidney disease research and innovations. Don’t miss this opportunity to engage with colleagues and deepen your understanding of the complex science behind kidney health and disease.
+
+Organizers:
+  Jonathan Nelson (jnelson4@usc.edu)
+  
+# Email Signup
+
+Click on this link to join **USC SCORE**.
+
+# Upcoming Presentation Topics: 
+
+| Date        | Topic          | Presenter  |
+| :--------: |:-------------:| :-----:|
+| January      | Updates to Seurat V5                                     | Jonathan Nelson |
+| February     | Advances in scRNASeq Technologies                        | Jeremiah Reyes |
+| March        | Best Practices for Reporting Data (GitHub/GEO)           | Jessica Baheno-Lopez |
+| April        | Cell-Cell Interactions with CellChat                     | Kevin Burfeind |
+| May          | Access to KPMP Datasets                                  | Xiao-Tong Su |
+| June         | Spatial Transcriptomic Analysis                          | TBD |
+
+# Previous Topics
+
+## 
+
+Link to materials:
+

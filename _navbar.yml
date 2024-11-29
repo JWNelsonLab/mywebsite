@@ -1,27 +1,27 @@
-name: "Mywebsite"
-title: "USC KRC Bioinformaics Core"
+name: "USC KRC Bioinformatics"
+title: "USC KRC Bioinformatics"
 type: inverse
 left:
-  - text: "About USC KRC"
+  - text: "About USC KRC Bioinformatics"
     menu:
       - text: "Learn more about the USC KRC"
-        href: ./aboutme.html
+        href: ./about.html
   - text: "Kidney JC"
     menu:
        - text: "Kidney JC"
          href: ./kidneyjc.html
-  - text: "SCRUBS"
+  - text: "USC SCORE"
     menu:
-       - text: "SCRUBS"
-         href: ./scrubs.html
+       - text: "USC SCORE"
+         href: ./score.html
   - text: "Datasets"
     menu:
-       - text: "snRNAseq"
-         href: ./snRNAseq.html
+       - text: "scRNAseq"
+         href: ./scrnaseq.html
        - text: "Bulk"
          href: ./bulk.html
   - text: "Contact"
     href: ./contact.html
 right:
-  - icon: fa-github fa-lg
-    href: https://github.com/githubusername/mywebsite
+  - icon:
+    href: 

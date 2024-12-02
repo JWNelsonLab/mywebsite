@@ -6,5 +6,5 @@ output:
 ---
 
 
-You can contact USC KRC Bioinformatics by emailing us at usckrc@gmail.com.
+You can contact USC KRC Bioinformatics by emailing us at usckrcbioinformatics@gmail.com
 
